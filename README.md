@@ -8,7 +8,8 @@
     <table width="700px" border="1">
         <tr>
             <td rowspan="2">
-                <img src="Image name.file type" alt="My Photo" width="100%">
+                <img src="Image name.file type" alt="[Uploading 292701107_584049683338022_5794503550751452767_n.jpg…]()
+" width="100%">
             </td>
             <th width="500px" height="50px" bgcolor="PaleGreen">Student Information</th>
         </tr>
