@@ -15,11 +15,11 @@
         <tr>
             <td>
                 <ul>
-                    <li>Name : X</li>
-                    <li>Birth Date : X</li>
-                    <li>Birth Place : X</li>
-                    <li>Hobby : X</li>
-                    <li>Religion : X</li>
+                    <li>Name : Rolando M. Melecio Jr</li>
+                    <li>Birth Date : December 1, 1999</li>
+                    <li>Birth Place : Brgy: Santor Tanauan City</li>
+                    <li>Hobby : Drawing/Driving/Wacthing Movie</li>
+                    <li>Religion : apostolic</li>
                 </ul>
             </td>
         </tr>
