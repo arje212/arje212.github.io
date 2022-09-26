@@ -10,7 +10,7 @@
             <td rowspan="2">
                 <img src="Image name.file type" alt="My Photo" width="100%">
             </td>
-            <th width="500px" height="50px" bgcolor="PaleGreen">Something</th>
+            <th width="500px" height="50px" bgcolor="PaleGreen">Student Information</th>
         </tr>
         <tr>
             <td>
