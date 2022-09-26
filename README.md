@@ -8,8 +8,7 @@
     <table width="700px" border="1">
         <tr>
             <td rowspan="2">
-                <img src="Image name.file type" alt="![292701107_584049683338022_5794503550751452767_n](https://user-images.githubusercontent.com/114086629/192184740-36711239-8f38-4971-bf73-3246d1d5f234.jpg)
-" width="100%">
+                <img src="Image name.file type"alt="arje.jpg" width="100%">
             </td>
             <th width="500px" height="50px" bgcolor="PaleGreen">Student Information</th>
         </tr>
