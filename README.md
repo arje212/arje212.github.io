@@ -8,7 +8,7 @@
     <table width="700px" border="1">
         <tr>
             <td rowspan="2">
-                <img src="Image name.file type"alt="arje.jpg" width="100%">
+                <img src="arje.jpg"alt="arje.jpg" width="100%">
             </td>
             <th width="500px" height="50px" bgcolor="PaleGreen">Student Information</th>
         </tr>
